@@ -3,11 +3,19 @@ from price_monitor import settings
 from price_monitor.utils import reversed_timestamp, get_product_names
 from datetime import datetime
 import json
+import os
 
 class CollectionStoragePipeline(object):
 
     def open_spider(self, spider):
         self.filename = "data/" + datetime.now().strftime("%Y%m%d") + ".json"
+        if not os.path.exists(os.path.dirname(self.filename)):
+            try:
+                os.makedirs(os.path.dirname(self.filename))
+            except OSError as exc: # Guard against race condition
+                if exc.errno != errno.EEXIST:
+                    raise
+        
         self.data_stores = {}
         try:
             with open(self.filename, 'r') as fp:
