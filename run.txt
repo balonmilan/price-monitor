@@ -1,0 +1,2 @@
+scrapy list | tr "\r" " " | xargs -n 1 scrapy crawl
+python reporter.py

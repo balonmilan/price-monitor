@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Report</title>
+  </head>
+  <body>
+    <table border="1">
+      {% for key,value in items.items() %}
+      <tr>
+        <th>{{key}}</th>
+        {% for item in value.values()|sort(attribute='price') %}
+        <td>
+          <p style="margin:0;"><a href="{{item.url}}">{{item.price}}</a></p>
+          <p style="margin:0;">{{item.retailer}}</p>
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </table>
+  </body>
+</html>
