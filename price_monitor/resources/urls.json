@@ -1,38 +1,159 @@
 {
     "God of War": [
-        "https://www.datart.cz/Software-Electronic-Arts-PS4-God-of-War.html",
-        "https://www.mironet.cz/ps4-god-of-war-akcni-cz-titulky-od-18-let-hra-pro-playstation-4+dp341462/",
-        "https://www.mall.cz/hry-konzole/god-of-war-ps4-100002672091",
+        "https://www.alfa.cz/product.php?eid=10514000600000048WB",
         "https://www.alza.cz/gaming/god-of-war-ps4",
-        "https://www.jrc.cz/god-of-war/p124194",
+        "https://www.czc.cz/god-of-war-ps4/193301/produkt",
+        "https://www.datart.cz/Software-Electronic-Arts-PS4-God-of-War.html",
         "https://www.electroworld.cz/god-of-war-ps4",
+        "https://www.herni-svet.cz/god-of-war-ps4",
+        "https://www.jrc.cz/god-of-war/p124194",
+        "https://www.mall.cz/hry-konzole/god-of-war-ps4-100002672091",
+        "https://www.mironet.cz/ps4-god-of-war-akcni-cz-titulky-od-18-let-hra-pro-playstation-4+dp341462/",
         "https://www.xzone.cz/nahledps3.php3?idg=2105"
     ],
-    "God of War III Remastered": [
-        "https://www.datart.cz/Software-PlayStation-PS4-God-of-War-3-Remastered.html"
-    ],
-    "Shadow of the Colossus": [
-        "https://www.datart.cz/Software-Sony-PS4-Shadow-of-the-Colossus.html"
-    ],
-    "Uncharted: The Lost Legacy": [
-        "https://www.datart.cz/Software-Sony-PS4-Uncharted-The-Lost-Legacy.html"
-    ],
-    "inFamous: Second Son": [
-        "https://www.datart.cz/null-SONY-InFamous-Second-Son-PS4-EAS.html"
-    ],
-    "Until Dawn": [
-        "https://www.datart.cz/Software-PlayStation-PS4-Until-dawn.html"
-    ],
-    "Heavy Rain & Beyond: Two Souls Collection": [
-        "https://www.datart.cz/Software-PlayStation-PS4-Heavy-Rain-Beyond-Two-Souls-Collection.html"
-    ],
-    "Detroit: Become Human": [
-        "https://www.datart.cz/Software-Sony-PS4-Detroit-Become-Human.html"
+    "Persona 5": [
+        "https://www.herni-svet.cz/persona-5-ps4",
+        "https://www.jrc.cz/persona-5/p130490"
     ],
     "Bloodborne GOTY": [
-        "https://www.datart.cz/Software-PlayStation-PS4-Bloodborne-GOTY.html"
+        "https://www.datart.cz/Software-PlayStation-PS4-Bloodborne-GOTY.html",
+        "https://www.herni-svet.cz/bloodborne-goty-edition-ps4#v=22839"
+    ],
+    "Shadow of the Colossus": [
+        "https://www.alfa.cz/product.php?eid=10516000000000048GB",
+        "https://www.alza.cz/gaming/shadow-of-the-colossus-ps4-d5150403.htm",
+        "https://www.czc.cz/shadow-of-the-colossus-ps4/225795/produkt",
+        "https://www.datart.cz/Software-Sony-PS4-Shadow-of-the-Colossus.html",
+        "https://www.electroworld.cz/sony-shadow-of-colossus-ps4-hra",
+        "https://www.herni-svet.cz/shadow-of-the-colossus-ps4#v=19350",
+        "https://www.jrc.cz/shadow-of-the-colossus/p132281",
+        "https://www.mall.cz/hry-konzole/shadow-of-the-colossus-ps4-100002641575",
+        "https://www.mironet.cz/ps4-shadow-of-the-colossus-akcni-anglictina-od-12-let-hra-pro-playstation-4+dp341461/",
+        "https://www.xzone.cz/nahledps3.php3?idg=3345"
+    ],
+    "Odin Sphere Leifthrasir": [
+        "https://www.czc.cz/odin-sphere-leifthrasir-ps4/192665/produkt",
+        "https://www.herni-svet.cz/odin-sphere-leifthrasir-ps4",
+        "https://www.xzone.cz/nahledps3.php3?idg=2091"
+    ],
+    "Kingdom Hearts HD 1.5 + 2.5 Remix": [
+        "https://www.herni-svet.cz/kingdom-hearts-1-5-2-5-remix-ps4#v=18779"
+    ],
+    "Uncharted: The Lost Legacy": [
+        "https://www.alfa.cz/product.php?eid=1051600000000003YS0",
+        "https://www.alza.cz/gaming/uncharted-the-lost-legacy-ps4-d5001991.htm",
+        "https://www.czc.cz/uncharted-the-lost-legacy-ps4/211889/produkt",
+        "https://www.datart.cz/Software-Sony-PS4-Uncharted-The-Lost-Legacy.html",
+        "https://www.electroworld.cz/sony-uncharted-the-lost-legacy-ps4-hra",
+        "https://www.herni-svet.cz/uncharted-the-lost-legacy-ps4",
+        "https://www.jrc.cz/uncharted-the-lost-legacy/p130546",
+        "https://www.mall.cz/hry-konzole/uncharted-the-lost-legacy-ps4-100002641813",
+        "https://www.mironet.cz/ps4-uncharted-the-lost-legacy-akcni-cz-titulky-od-16-let-hra-pro-playstation-4+dp326579/",
+        "https://www.xzone.cz/nahledps3.php3?idg=3194"
     ],
     "The Last Guardian": [
-        "https://www.datart.cz/Software-PlayStation-PS4-The-Last-Guardian.html"
-    ]
+        "https://www.alfa.cz/product.php?eid=1051600000000003NWY",
+        "https://www.alza.cz/gaming/ps4-the-last-guardian-d2903109.htm",
+        "https://www.czc.cz/the-last-guardian-ps4/159632/produkt",
+        "https://www.datart.cz/Software-PlayStation-PS4-The-Last-Guardian.html",
+        "https://www.electroworld.cz/sony-the-last-guardian-ps4-hra",
+        "https://www.herni-svet.cz/the-last-guardian-ps4#v=22808",
+        "https://www.jrc.cz/the-last-guardian/p116223",
+        "https://www.mall.cz/hry-konzole/the-last-guardian-ps4-100002643770",
+        "https://www.xzone.cz/nahledps3.php3?idg=344"
+    ],
+    "God of War III Remastered": [
+        "https://www.alfa.cz/product.php?eid=10514000600000033U7",
+        "https://www.alza.cz/gaming/ps4-god-of-war-iii-remaster-anniversary-edition-d2423342.htm",
+        "https://www.czc.cz/god-of-war-iii-remastered-ps4/169743/produkt",
+        "https://www.datart.cz/Software-PlayStation-PS4-God-of-War-3-Remastered.html",
+        "https://www.electroworld.cz/ps4-god-of-war-3-remastered",
+        "https://www.herni-svet.cz/god-of-war-3-remastered-ps4#v=15449",
+        "https://www.jrc.cz/god-of-war-3-remastered/p115975",
+        "https://www.mall.cz/hry-konzole/god-of-war-iii-remastered-ps4-100002643256",
+        "https://www.mironet.cz/ps4-god-of-war-3-remastered-akcni-anglictina-od-18-let-hra-pro-playstation-4+dp239906/",
+        "https://www.xzone.cz/nahledps3.php3?idg=1266"
+    ], 
+    "Gravity Rush Remastered": [
+        "https://www.alfa.cz/product.php?eid=1051400060000003BOZ",
+        "https://www.alza.cz/gaming/ps4-gravity-rush-remastered-d4036038.htm",
+        "https://www.czc.cz/gravity-rush-remastered-ps4/183208/produkt",
+        "https://www.datart.cz/Software-PlayStation-PS4-Gravity-Rush-remastered.html",
+        "https://www.electroworld.cz/ps4-gravity-rush",
+        "https://www.herni-svet.cz/gravity-rush-remastered-ps4#v=16747",
+        "https://www.mironet.cz/ps4-gravity-rush-remaster-akcni-anglictina-od-12-let-hra-na-playstation-4+dp261047/",
+        "https://www.xzone.cz/nahledps3.php3?idg=1967"
+    ],
+    "Gravity Rush 2": [
+        "https://www.alfa.cz/product.php?eid=1051400060000003QEH",
+        "https://www.alza.cz/gaming/ps4-gravity-rush-2-d4313234.htm",
+        "https://www.czc.cz/gravity-rush-2-ps4/183356/produkt",
+        "https://www.datart.cz/Software-Sony-PS4-Gravity-Rush-2.html",
+        "https://www.electroworld.cz/ps4-gravity-rush-2",
+        "https://www.herni-svet.cz/gravity-rush-2-ps4#v=18435",
+        "https://www.jrc.cz/gravity-rush-2/p120434",
+        "https://www.mall.cz/hry-konzole/gravity-rush-2-ps4-100002642823",
+        "https://www.mironet.cz/ps4-gravity-rush-2-akcni-anglictina-od-12-let-hra-na-playstation-4+dp308078/",
+        "https://www.xzone.cz/nahledps3.php3?idg=1972"
+    ],
+    "inFamous: Second Son": [
+        "https://www.alfa.cz/product.php?eid=1051600000000004E4U",
+        "https://www.alza.cz/gaming/ps4-infamous-second-son-d440434.htm",
+        "https://www.czc.cz/infamous-second-son-ps4/134967/produkt",
+        "https://www.datart.cz/null-SONY-InFamous-Second-Son-PS4-EAS.html",
+        "https://www.electroworld.cz/infamous-second-son-playstation-hits-edition",
+        "https://www.electroworld.cz/infamous-second-son-hra-pro-ps4",
+        "https://www.herni-svet.cz/infamous-second-son-ps4#v=21894",
+        "https://www.jrc.cz/infamous-second-son-ps-hits/p187641",
+        "https://www.jrc.cz/infamous-second-son/p91763",
+        "https://www.mironet.cz/ps4-infamous-second-son-hits-cz-distribuce-akcni-anglictina-od-16-let-hra-pro-playstation-4+dp358356/",
+        "https://www.xzone.cz/nahledps3.php3?idg=909"
+    ],
+    "Until Dawn": [
+        "https://www.alza.cz/gaming/ps4-until-dawn-extended-edition-d2922246.htm",
+        "https://www.czc.cz/until-dawn-ps4/159633/produkt",
+        "https://www.datart.cz/Software-PlayStation-PS4-Until-dawn.html",
+        "https://www.electroworld.cz/until-dawn-ps-hits-edition-ps4-hra",
+        "https://www.electroworld.cz/ps4-until-dawn",
+        "https://www.jrc.cz/until-dawn-ps-hits/p254060",
+        "https://www.jrc.cz/until-dawn/p116424"   
+    ],
+    "Detroit: Become Human": [
+        "https://www.alfa.cz/product.php?eid=1051600000000004AWL",
+        "https://www.alza.cz/gaming/detroit-become-human-ps4-d4328425.htm",
+        "https://www.czc.cz/detroit-become-human-ps4/183403/produkt",
+        "https://www.datart.cz/Software-Sony-PS4-Detroit-Become-Human.html",
+        "https://www.electroworld.cz/detroit-become-human-ps4-hra",
+        "https://www.herni-svet.cz/detroit-become-human-ps4",
+        "https://www.jrc.cz/detroit-become-human/p119101",
+        "https://www.mall.cz/darky-gaming/sony-detroit-become-human-ps4",
+        "https://www.mironet.cz/ps4-detroit-become-human-adventura-cz-titulky-od-18-let-hra-na-playstation-4+dp310293/",
+        "https://www.xzone.cz/nahledps3.php3?idg=1963"
+    ],
+    "Heavy Rain & Beyond: Two Souls Collection": [
+        "https://www.alfa.cz/product.php?eid=1051600000000003KL9",
+        "https://www.alza.cz/gaming/ps4-heavy-rain-beyond-two-souls-collection-d4036039.htm",
+        "https://www.czc.cz/heavy-rain-and-beyond-two-souls-collection-ps4/184220/produkt",
+        "https://www.datart.cz/Software-PlayStation-PS4-Heavy-Rain-Beyond-Two-Souls-Collection.html",
+        "https://www.electroworld.cz/ps4-heavy-rain-beyond",
+        "https://www.herni-svet.cz/heavy-rain-beyond-two-souls-collection-ps4#v=16715",
+        "https://www.jrc.cz/heavy-rain-beyond-two-souls-collection/p120572",
+        "https://www.mall.cz/hry-konzole/heavy-rain-beyond-two-souls-collection-ps4-100002642830",
+        "https://www.mironet.cz/ps4-the-heavy-rain-beyond-two-souls-collection-adventura-anglictina-od-18-let-hra-na-playstation-4+dp261048/",
+        "https://www.xzone.cz/nahledps3.php3?idg=1987"       
+    ],
+    
+    "Kingdom Hearts HD 2.8 Final Chapter Prologue": [
+        "https://www.czc.cz/kingdom-hearts-2-8-final-chapter-prologue-ps4/204306/produkt",
+        "https://www.herni-svet.cz/kingdom-hearts-2-8-final-chapter-prologue-ps4#v=18437",
+        "https://www.mall.cz/hry-konzole/kingdom-hearts-2-8-final-chapter-prologue-ps4-100002642310",
+        "https://www.xzone.cz/nahledps3.php3?idg=2374"
+    ],
+    
+    "Digimon Story: Cyber Sleuth": [
+        "https://www.czc.cz/digimon-story-cyber-sleuth-ps4/184079/produkt",
+        "https://www.herni-svet.cz/digimon-story-cyber-sleuth-ps4#v=18046",
+        "https://www.mall.cz/hry-konzole/digimon-story-cyber-sleuth-ps4-100002642816",
+        "https://www.xzone.cz/nahledps3.php3?idg=1988"
+    ]    
 }
