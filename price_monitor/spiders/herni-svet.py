@@ -13,7 +13,7 @@ class HerniSvetSpider(BaseSpider):
             nonBreakSpace = ' '
             
             item['price'] = float(
-                response.css('.price > span::text').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0
+                response.css('span#cp_price::text').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0
             )
         except:
             item['price'] = float(0)
