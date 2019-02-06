@@ -9,7 +9,7 @@ class AlfaSpider(BaseSpider):
         item['url'] = response.url
         item['title'] = response.xpath('//h1/text()').extract_first().strip()
         
-        currency = u",-K\u010d"
+        currency = u"K\u010d"
         nonBreakSpace = ' '
         try:
             item['price'] = float(
