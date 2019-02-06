@@ -11,9 +11,10 @@ class AlfaSpider(BaseSpider):
         
         currency = u"K\u010d"
         nonBreakSpace = ' '
+        decimal = ","
         try:
             item['price'] = float(
-                response.css('.pvat::text').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0
+                response.css('.pvat::text').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '').replace(decimal, '.') or 0
             )
         except:
             item['price'] = float(0)
