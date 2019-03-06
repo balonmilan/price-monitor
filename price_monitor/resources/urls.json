@@ -39,11 +39,6 @@
         "https://www.xzone.cz/nahledps3.php3?idg=2091",
         "https://www.originalky.cz/odin-sphere-leifthrasir-ps4-p74862/"
     ],
-    "Kingdom Hearts HD 1.5 + 2.5 Remix": [
-        "https://www.herni-svet.cz/kingdom-hearts-1-5-2-5-remix-ps4#v=18779",
-        "https://www.originalky.cz/kingdom-hearts-1-5-2-5-remix-ps4-p81371/",
-        "https://www.konzoleahry.cz/ps4-kingdom-hearts-hd-1-5-2-5-remix-p12029/"
-    ],
     "Uncharted: The Lost Legacy": [
         "https://www.alfa.cz/product.php?eid=1051600000000003YS0",
         "https://www.alza.cz/gaming/uncharted-the-lost-legacy-ps4-d5001991.htm",
@@ -59,18 +54,6 @@
         "https://www.originalky.cz/uncharted-the-lost-legacy-ps4-p83620/",
         "https://www.euronics.cz/hra-sony-playstation-4-uncharted-the-lost-legacy-sonps719858065/p446406/",
         "https://www.konzoleahry.cz/ps4-uncharted-the-lost-legacy-cz-p5585/"
-    ], 
-    "Gravity Rush Remastered": [
-        "https://www.alfa.cz/product.php?eid=1051400060000003BOZ",
-        "https://www.alza.cz/gaming/ps4-gravity-rush-remastered-d4036038.htm",
-        "https://www.czc.cz/gravity-rush-remastered-ps4/183208/produkt",
-        "https://www.datart.cz/Software-PlayStation-PS4-Gravity-Rush-remastered.html",
-        "https://www.electroworld.cz/ps4-gravity-rush",
-        "https://www.herni-svet.cz/gravity-rush-remastered-ps4#v=16747",
-        "https://www.mironet.cz/ps4-gravity-rush-remaster-akcni-anglictina-od-12-let-hra-na-playstation-4+dp261047/",
-        "https://www.xzone.cz/nahledps3.php3?idg=1967",
-        "https://www.originalky.cz/gravity-rush-remastered-ps4-p87608/",
-        "https://www.euronics.cz/hra-sony-playstation-4-gravity-rush-remastered-sonps719880240/p409973/"
     ],
     "Detroit: Become Human": [
         "https://www.alfa.cz/product.php?eid=1051600000000004AWL",
@@ -87,14 +70,6 @@
         "https://www.euronics.cz/hra-sony-playstation-4-detroit-become-human-sonps719397571/p478424/",
         "https://www.konzoleahry.cz/ps4-detroit-become-human-cz-nova-p8240/"
     ],
-    "Kingdom Hearts HD 2.8 Final Chapter Prologue": [
-        "https://www.czc.cz/kingdom-hearts-2-8-final-chapter-prologue-ps4/204306/produkt",
-        "https://www.herni-svet.cz/kingdom-hearts-2-8-final-chapter-prologue-ps4#v=18437",
-        "https://www.mall.cz/hry-konzole/kingdom-hearts-2-8-final-chapter-prologue-ps4-100002642310",
-        "https://www.xzone.cz/nahledps3.php3?idg=2374",
-        "https://www.originalky.cz/kingdom-hearts-hd-2-8-final-chapter-prologue-ps4-p74872/",
-        "https://www.konzoleahry.cz/ps4-kingdom-hearts-hd-2-8-p5649/"
-    ],
     "Digimon Story: Cyber Sleuth": [
         "https://www.czc.cz/digimon-story-cyber-sleuth-ps4/184079/produkt",
         "https://www.herni-svet.cz/digimon-story-cyber-sleuth-ps4#v=18046",
@@ -102,15 +77,5 @@
         "https://www.xzone.cz/nahledps3.php3?idg=1988",
         "https://www.originalky.cz/digimon-story-cyber-sleuth-ps4-p77072/",
         "https://www.konzoleahry.cz/ps4-digimon-story-cyber-sleuth-p8413/"
-    ],
-    "Journey Collector's Edition": [
-        "https://www.czc.cz/the-journey-collectors-edition-ps4/172779/produkt",
-        "https://www.electroworld.cz/ps4-journey-collectors-edition",
-        "https://www.herni-svet.cz/journey-collectors-edition-ps4#v=15476",
-        "https://www.jrc.cz/journey-collector-s-edition/p114459",
-        "https://www.mall.cz/hry-konzole/the-journey-collectors-edition-ps4-100002643235",
-        "https://www.originalky.cz/journey-collector-s-edition-ps4-p67137/",
-        "https://www.xzone.cz/nahledps3.php3?idg=1286",
-        "https://www.konzoleahry.cz/ps4-journey-collectors-edition-p14152/"
-    ]   
+    ]  
 }
