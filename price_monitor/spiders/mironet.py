@@ -9,7 +9,7 @@ class MironetSpider(BaseSpider):
         item['url'] = response.url
         item['title'] = response.xpath('//h1/text()').extract_first().strip()
         try:
-            currency = ",-"
+            currency = u"K\u010d"
             nonBreakSpace = u'\xa0'
             
             item['price'] = float(
