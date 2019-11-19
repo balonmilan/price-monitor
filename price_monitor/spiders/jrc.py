@@ -20,7 +20,7 @@ class JRCSpider(BaseSpider):
             
         try:
             item['bazar'] = float(
-                response.css('.preownCoste div.price::text').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0                
+                response.xpath('//div[contains(@class, "priceDet")]/text()')[-1].extract().strip().replace(nonBreakSpace, '').replace(currency, '') or 0                
             )
         except:
             item['bazar'] = float(0)

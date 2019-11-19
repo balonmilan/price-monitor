@@ -13,7 +13,7 @@ class MallSpider(BaseSpider):
             nonBreakSpace = ' '
             
             item['price'] = float(
-                response.xpath('//div[@class="price-wrapper"]/div/b/text()').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0                
+                response.xpath('//b[contains(@class, "price")]/text()').extract_first().strip().replace(nonBreakSpace, '').replace(currency, '') or 0                
             )
         except:
             item['price'] = float(0)
