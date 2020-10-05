@@ -13,7 +13,4 @@ class BaseSpider(scrapy.Spider):
                 if self.name in url:
                     now = datetime.now().strftime('%Y/%m/%d %H:%M:%S')
                     item = {'product_name': name, 'retailer': self.name, 'when': now}
-                    if self.name == "alza.cz":
-                        yield scrapy.Request(url, meta={'item': item, 'proxy': 'http://193.86.229.230:8080'})
-                    else:
-                        yield scrapy.Request(url, meta={'item': item})
+                    yield scrapy.Request(url, meta={'item': item})
